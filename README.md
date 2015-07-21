@@ -1,3 +1,5 @@
+[![Android Gems](http://www.android-gems.com/badge/tuesda/CircleRefreshLayout.svg?branch=master)](http://www.android-gems.com/lib/tuesda/CircleRefreshLayout)
+
 This is a project with custom pull-to-refresh layout which contains a interesting animation. And the animation is inspired by <https://dribbble.com/shots/1797373-Pull-Down-To-Refresh> made by Ramotion.  
 
 ###Demo###
